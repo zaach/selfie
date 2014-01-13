@@ -24,7 +24,7 @@ Combine that with the timer for webcam time-lapse photography:
 ## cli
 
 ```
-Usage: selfie [--timer N] [--amount N] [--out FILE]
+Usage: selfie [--timer N] [--total N] [--out FILE]
 
     --timer, -t    The number of seconds to wait before a capture.    
     --total, -n    Total number of shots to take in sequence.         
