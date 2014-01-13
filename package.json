@@ -1,0 +1,16 @@
+{
+  "name": "selfie",
+  "version": "0.0.1",
+  "description": "Take selfies with your webcam.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zach Carter <zack.carter@gmail.com> (http://zaa.ch)",
+  "license": "MIT",
+  "dependencies": {
+    "webcam-capture": "~0.1.1",
+    "nopt": "~2.1.2",
+    "nopt-usage": "~0.1.0"
+  }
+}
