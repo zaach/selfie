@@ -2,7 +2,12 @@
   "name": "selfie",
   "version": "0.0.1",
   "description": "Take selfies with your webcam.",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/zaach/selfie.git"
+  },
   "main": "index.js",
+  "bin": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
