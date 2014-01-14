@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const path = require('path');
 const EventEmitter = require('events').EventEmitter;
 const nopt = require('nopt');
